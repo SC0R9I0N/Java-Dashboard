@@ -27,12 +27,7 @@ import javafx.scene.input.MouseEvent;
 
 /*
 Windows commands for compiling, running:
-javac --module-path "C:\Users\reihn\Documents\javafx-sdk-20.0.2\lib" --add-modules javafx.controls AirQualityGDR.java
-java --module-path "C:\Users\reihn\Documents\javafx-sdk-20.0.2\lib" --add-modules javafx.controls AirQualityGDR
-
-
-javac --module-path %PATH_TO_FX% --add-modules javafx.controls AirQualityXXX.java
-java --module-path %PATH_TO_FX% --add-modules javafx.controls AirQualityXXX
+go to https://openjfx.io/openjfx-docs/#install-javafx to find the compile and run commands
 */
 
 public class AirQualityGDR extends Application {
