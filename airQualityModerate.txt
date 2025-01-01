@@ -1,0 +1,501 @@
+_id	date	site	parameter	index_value	description	health_advisory	health_effects
+49045	12/8/2021	Liberty	SO2	1	Good		
+9084	2/24/2017	Lawrenceville 2	SO2	4	Good		
+33415	1/8/2020	Avalon	SO2	0	Good		
+10385	4/23/2017	South Fayette	OZONE	50	Good		
+32538	12/2/2019	Lawrenceville 2	CO	2	Good		
+13991	9/30/2017	North Braddock	PM10B	23	Good		
+41574	1/16/2021	Flag Plaza	PM10	13	Good		
+82060	9/20/2024	Pittsburgh	PM25_640	48	Good		
+46139	8/25/2021	North Braddock	CO	15	Good		
+69949	5/13/2023	Liberty 2	PM25T	82	Moderate	Unusually sensitive people should consider reducing prolonged or heavy exertion.	"Respiratory symptoms possible in unusually sensitive individuals, possible aggravation of heart or lung disease in people with cardiopulmonary disease and older adults."
+20921	8/3/2018	Lawrenceville 2	SO2	1	Good		
+28978	7/12/2019	Lawrenceville 2	CO	3	Good		
+80896	8/6/2024	Lawrenceville	OZONE	47	Good		
+29137	7/18/2019	Avalon	SO2	0	Good		
+76207	1/26/2024	Parkway East	PM25_640	12	Good		
+32507	12/1/2019	North Braddock	PM10B	14	Good		
+37325	7/1/2020	Parkway East	CO	9	Good		
+27950	5/31/2019	Lawrenceville 2	SO2	1	Good		
+35639	4/16/2020	Lawrenceville	OZONE	39	Good		
+81775	9/8/2024	Lawrenceville 2	CO	3	Good		
+27313	5/5/2019	Lawrenceville 2	CO	2	Good		
+15300	11/27/2017	Liberty	SO2	44	Good		
+44135	5/21/2021	Harrison Township	NO2	15	Good		
+16672	1/26/2018	Lawrenceville	PM25B	61	Moderate	Unusually sensitive people should consider reducing prolonged or heavy exertion.	"Respiratory symptoms possible in unusually sensitive individuals, possible aggravation of heart or lung disease in people with cardiopulmonary disease and older adults."
+35091	3/23/2020	Lawrenceville 2	SO2	1	Good		
+59271	9/18/2022	Liberty 2	PM10	40	Good		
+52408	3/5/2022	North Braddock	PM10_640	28	Good		
+29597	8/6/2019	Parkway East	PM25T	66	Moderate	Unusually sensitive people should consider reducing prolonged or heavy exertion.	"Respiratory symptoms possible in unusually sensitive individuals, possible aggravation of heart or lung disease in people with cardiopulmonary disease and older adults."
+9083	2/24/2017	Flag Plaza	PM10	35	Good		
+10507	4/28/2017	Lincoln	PM25	49	Good		
+17060	2/12/2018	Lawrenceville 2	CO	3	Good		
+31883	11/5/2019	Liberty 2	PM10	27	Good		
+7073	11/21/2016	Avalon	SO2	1	Good		
+59088	9/12/2022	Parkway East	PM25_640	30	Good		
+26950	4/20/2019	Lawrenceville	OZONE	42	Good		
+44249	5/26/2021	North Braddock	SO2	21	Good		
+52187	3/12/2022	Avalon	PM25T	27	Good		
+73869	10/20/2023	South Fayette	OZONE	29	Good		
+18522	4/18/2018	Lincoln	PM10	12	Good		
+22359	10/6/2018	North Braddock	SO2	3	Good		
+5928	9/30/2016	South Fayette	SO2	1	Good		
+70832	6/13/2023	South Fayette	OZONE	44	Good		
+30000	8/22/2019	Lincoln	PM25	41	Good		
+31701	10/29/2019	West Mifflin	SO2	4	Good		
+78336	4/26/2024	North Braddock	SO2	11	Good		
+73167	9/19/2023	North Braddock	PM25_640	34	Good		
+26684	4/9/2019	Liberty 2	PM10	24	Good		
+5965	10/2/2016	South Fayette	SO2	0	Good		
+34688	3/4/2020	Harrison Township	OZONE	26	Good		
+47396	10/22/2021	Flag Plaza	PM10	12	Good		
+67300	3/7/2023	Avalon	PM25_640	19	Good		
+56573	7/9/2022	Glassport High Street	PM10	17	Good		
+13795	9/21/2017	Lawrenceville	PM25B	67	Moderate	Unusually sensitive people should consider reducing prolonged or heavy exertion.	"Respiratory symptoms possible in unusually sensitive individuals, possible aggravation of heart or lung disease in people with cardiopulmonary disease and older adults."
+17799	3/17/2018	Lawrenceville 2	SO2	10	Good		
+50493	1/21/2022	Pittsburgh	PM10_640	9	Good		
+47437	10/23/2021	Liberty 2	PM10	6	Good		
+72011	8/2/2023	Glassport High Street	PM10	31	Good		
+27146	4/28/2019	Lincoln	PM10	16	Good		
+52643	1/20/2022	North Braddock	PM25_640	22	Good		
+14459	10/20/2017	Liberty 2	PM25(2)	93	Moderate	Unusually sensitive people should consider reducing prolonged or heavy exertion.	"Respiratory symptoms possible in unusually sensitive individuals, possible aggravation of heart or lung disease in people with cardiopulmonary disease and older adults."
+30339	9/4/2019	Liberty	SO2	24	Good		
+1540	3/14/2016	Lawrenceville	OZONE	32	Good		
+66046	1/31/2023	Harrison Township	NO2	6	Good		
+20917	8/2/2018	South Fayette	OZONE	36	Good		
+15264	11/25/2017	Parkway East	PM25T	54	Moderate	Unusually sensitive people should consider reducing prolonged or heavy exertion.	"Respiratory symptoms possible in unusually sensitive individuals, possible aggravation of heart or lung disease in people with cardiopulmonary disease and older adults."
+74255	11/5/2023	Pittsburgh	PM10_640	26	Good		
+5145	8/27/2016	Flag Plaza	CO	0	Good		
+366	1/18/2016	Parkway East	CO	5	Good		
+39672	10/16/2020	Lincoln	PM10	25	Good		
+43287	4/10/2021	Parkway East	PM25T	34	Good		
+55752	6/17/2022	Pittsburgh	PM10_640	55	Moderate	Unusually sensitive people should consider reducing prolonged or heavy exertion.	"Respiratory symptoms possible in unusually sensitive individuals, possible aggravation of heart or lung disease in people with cardiopulmonary disease and older adults."
+70660	6/6/2023	Lawrenceville	OZONE	58	Moderate	Unusually sensitive people should consider reducing prolonged or heavy outdoor exertion.	Unusually sensitive individuals may experience respiratory symptoms.
+4405	7/24/2016	Lincoln	PM10	31	Good		
+3002	5/20/2016	Lawrenceville 2	SO2	7	Good		
+691	2/3/2016	Flag Plaza	CO	0	Good		
+555	1/28/2016	Harrison Township	OZONE	28	Good		
+35978	5/2/2020	Parkway East	NO2	22	Good		
+37782	7/22/2020	Glassport High Street	PM10	20	Good		
+40610	11/30/2020	South Fayette	OZONE	25	Good		
+36714	6/4/2020	Lawrenceville 2	CO	2	Good		
+13222	8/27/2017	North Braddock	SO2	4	Good		
+28888	7/8/2019	Lawrenceville 2	CO	2	Good		
+27291	5/4/2019	North Braddock	PM10B	23	Good		
+30585	9/14/2019	Parkway East	CO	12	Good		
+54847	5/21/2022	Lawrenceville 2	CO	2	Good		
+50427	1/19/2022	Harrison Township	NO2	15	Good		
+82758	10/20/2024	South Fayette	OZONE	64	Moderate	Unusually sensitive people should consider reducing prolonged or heavy outdoor exertion.	Unusually sensitive individuals may experience respiratory symptoms.
+37457	7/7/2020	Avalon	PM25T	56	Moderate	Unusually sensitive people should consider reducing prolonged or heavy exertion.	"Respiratory symptoms possible in unusually sensitive individuals, possible aggravation of heart or lung disease in people with cardiopulmonary disease and older adults."
+35606	4/15/2020	Avalon	SO2	0	Good		
+75902	1/13/2024	Pittsburgh	NO2_500	12	Good		
+28245	6/12/2019	Liberty	SO2	6	Good		
+2306	4/18/2016	Glassport High Street	PM10	34	Good		
+80626	7/28/2024	South Fayette	OZONE	90	Moderate	Unusually sensitive people should consider reducing prolonged or heavy outdoor exertion.	Unusually sensitive individuals may experience respiratory symptoms.
+76291	1/30/2024	North Braddock	PM25_640	24	Good		
+1543	3/14/2016	Parkway East	PM25T	20	Good		
+3723	6/21/2016	Lincoln	PM25	51	Moderate	Unusually sensitive people should consider reducing prolonged or heavy exertion.	"Respiratory symptoms possible in unusually sensitive individuals, possible aggravation of heart or lung disease in people with cardiopulmonary disease and older adults."
+79420	6/11/2024	Lawrenceville	OZONE	41	Good		
+50112	1/9/2022	Pittsburgh	PM25_640	25	Good		
+47698	10/31/2021	Liberty 2	PM10	6	Good		
+44017	5/15/2021	South Fayette	SO2	6	Good		
+3736	6/22/2016	South Fayette	OZONE	49	Good		
+11439	6/8/2017	Liberty 2	PM25(2)	10	Good		
+9307	3/5/2017	Lawrenceville	PM25B	27	Good		
+41398	1/8/2021	Parkway East	PM25T	31	Good		
+68512	4/9/2023	Harrison Township	OZONE	46	Good		
+37720	7/19/2020	South Fayette	OZONE	44	Good		
+40334	11/16/2020	Harrison Township	OZONE	33	Good		
+46933	10/2/2021	Lawrenceville	OZONE	43	Good		
+35372	4/5/2020	Glassport High Street	PM10	24	Good		
+10308	4/20/2017	North Braddock	SO2	3	Good		
+21765	9/9/2018	Harrison Township	OZONE	21	Good		
+4900	8/15/2016	Liberty	SO2	6	Good		
+1678	3/20/2016	South Fayette	OZONE	28	Good		
+78201	4/20/2024	South Fayette	OZONE	43	Good		
+12426	7/22/2017	Lincoln	PM25	56	Moderate	Unusually sensitive people should consider reducing prolonged or heavy exertion.	"Respiratory symptoms possible in unusually sensitive individuals, possible aggravation of heart or lung disease in people with cardiopulmonary disease and older adults."
+37447	7/6/2020	Flag Plaza	PM10	23	Good		
+10755	5/10/2017	Lawrenceville	OZONE	50	Good		
+48886	12/4/2021	South Fayette	SO2	1	Good		
+36838	6/9/2020	Liberty 2	PM10	19	Good		
+30086	8/25/2019	Parkway East	PM25T	27	Good		
+40803	12/9/2020	Liberty	SO2	4	Good		
+44432	6/4/2021	Lawrenceville	OZONE	50	Good		
+4477	7/27/2016	Lawrenceville 2	SO2	6	Good		
+9782	3/27/2017	Parkway East	CO	8	Good		
+72536	8/25/2023	South Fayette	OZONE	40	Good		
+38351	8/16/2020	Lawrenceville 2	CO	2	Good		
+41003	12/20/2020	Parkway East	NO2	27	Good		
+16111	1/1/2018	Liberty 2	PM10	11	Good		
+53139	4/4/2022	Lawrenceville 2	CO	4	Good		
+31425	10/18/2019	Lawrenceville	OZONE	27	Good		
+17629	3/9/2018	North Braddock	SO2	1	Good		
+27219	5/1/2019	Harrison Township	OZONE	49	Good		
+4369	7/22/2016	Lawrenceville 2	CO	3	Good		
+23416	11/21/2018	Lawrenceville 2	CO	2	Good		
+32066	11/13/2019	Lawrenceville 2	SO2	3	Good		
+18392	4/12/2018	Lincoln	PM25	67	Moderate	Unusually sensitive people should consider reducing prolonged or heavy exertion.	"Respiratory symptoms possible in unusually sensitive individuals, possible aggravation of heart or lung disease in people with cardiopulmonary disease and older adults."
+43579	4/24/2021	North Braddock	SO2	59	Moderate		
+33414	1/8/2020	Lincoln	PM25	28	Good		
+76751	2/15/2024	Lawrenceville 2	CO	4	Good		
+18032	3/27/2018	Harrison Township	NO2	24	Good		
+79645	6/21/2024	Glassport High Street	PM10	36	Good		
+4167	7/13/2016	South Fayette	OZONE	41	Good		
+14558	10/25/2017	South Fayette	SO2	0	Good		
+39726	10/18/2020	Liberty 2	PM10	21	Good		
+45706	8/4/2021	North Braddock	SO2	7	Good		
+16190	1/5/2018	Harrison Township	NO2	8	Good		
+16852	2/3/2018	Harrison Township	OZONE	31	Good		
+31730	10/30/2019	North Braddock	SO2	1	Good		
+44048	5/17/2021	South Fayette	OZONE	93	Moderate	Unusually sensitive people should consider reducing prolonged or heavy outdoor exertion.	Unusually sensitive individuals may experience respiratory symptoms.
+82592	10/11/2024	North Braddock	PM25_640	62	Moderate	Unusually sensitive people should consider reducing prolonged or heavy exertion.	"Respiratory symptoms possible in unusually sensitive individuals, possible aggravation of heart or lung disease in people with cardiopulmonary disease and older adults."
+34761	3/7/2020	Flag Plaza	PM10	10	Good		
+80057	7/7/2024	North Braddock	CO	16	Good		
+24593	1/12/2019	Liberty	SO2	1	Good		
+50241	1/13/2022	Liberty 2	PM10	25	Good		
+282	1/14/2016	Lincoln	PM10	25	Good		
+77373	3/13/2024	Parkway East	NO2	22	Good		
+13304	8/31/2017	Lawrenceville	PM25B	52	Moderate	Unusually sensitive people should consider reducing prolonged or heavy exertion.	"Respiratory symptoms possible in unusually sensitive individuals, possible aggravation of heart or lung disease in people with cardiopulmonary disease and older adults."
+31096	10/5/2019	Parkway East	NO2	6	Good		
+55812	6/19/2022	Lawrenceville 2	CO	2	Good		
+18822	5/1/2018	North Braddock	PM10B	50	Good		
+11509	6/11/2017	North Braddock	PM10B	37	Good		
+12753	8/6/2017	Avalon	PM25T	27	Good		
+29370	7/27/2019	Liberty 2	PM10	25	Good		
+80525	7/23/2024	Liberty 2	PM25_640	65	Moderate	Unusually sensitive people should consider reducing prolonged or heavy exertion.	"Respiratory symptoms possible in unusually sensitive individuals, possible aggravation of heart or lung disease in people with cardiopulmonary disease and older adults."
+56012	6/24/2022	Harrison Township	NO2	22	Good		
+71817	7/25/2023	Parkway East	PM25_640	54	Moderate	Unusually sensitive people should consider reducing prolonged or heavy exertion.	"Respiratory symptoms possible in unusually sensitive individuals, possible aggravation of heart or lung disease in people with cardiopulmonary disease and older adults."
+71446	7/9/2023	Lawrenceville 2	CO	4	Good		
+11003	5/20/2017	Harrison Township	NO2	4	Good		
+71407	7/7/2023	Parkway East	PM25_640	49	Good		
+37386	7/4/2020	Parkway East	NO2	13	Good		
+46022	8/19/2021	Lawrenceville 2	CO	3	Good		
+41728	1/23/2021	North Braddock	PM10B	18	Good		
+32059	11/13/2019	Lincoln	PM25	27	Good		
+389	1/19/2016	South Fayette	SO2	3	Good		
+77060	2/29/2024	Pittsburgh	PM10_640	15	Good		
+63534	11/23/2022	Lawrenceville 2	SO2	5	Good		
+25272	2/10/2019	Avalon	PM25T	52	Moderate	Unusually sensitive people should consider reducing prolonged or heavy exertion.	"Respiratory symptoms possible in unusually sensitive individuals, possible aggravation of heart or lung disease in people with cardiopulmonary disease and older adults."
+22750	10/23/2018	Liberty	SO2	26	Good		
+11047	5/22/2017	Liberty 2	PM10	12	Good		
+4409	7/24/2016	Parkway East	CO	10	Good		
+40484	11/24/2020	Lawrenceville	OZONE	19	Good		
+9998	4/6/2017	Lincoln	PM10	13	Good		
+41627	1/18/2021	Pittsburgh	PM25_640	26	Good		
+69089	4/22/2023	Parkway East	PM25_640	20	Good		
+48191	11/13/2021	Harrison Township	NO2	4	Good		
+18543	4/19/2018	Harrison Township	OZONE	46	Good		
+20109	6/27/2018	Avalon	SO2	0	Good		
+81086	8/14/2024	North Braddock	PM10_640	27	Good		
+11999	7/3/2017	Liberty	SO2	57	Moderate		
+55745	6/17/2022	Lawrenceville 2	SO2	2	Good		
+70948	6/17/2023	Liberty 2	PM25T	84	Moderate	Unusually sensitive people should consider reducing prolonged or heavy exertion.	"Respiratory symptoms possible in unusually sensitive individuals, possible aggravation of heart or lung disease in people with cardiopulmonary disease and older adults."
+75649	1/4/2024	Liberty 2	PM10_640	8	Good		
+39411	10/4/2020	Lincoln	PM25	44	Good		
+56451	7/5/2022	Clairton	PM25_640	49	Good		
+58692	8/31/2022	North Braddock	PM25_640	33	Good		
+57462	8/2/2022	Lawrenceville 2	CO	2	Good		
+28567	6/25/2019	North Braddock	SO2	6	Good		
+13721	9/18/2017	Lawrenceville 2	CO	6	Good		
+1294	3/3/2016	South Fayette	SO2	1	Good		
+11779	6/23/2017	Avalon	PM25T	13	Good		
+77587	3/23/2024	Pittsburgh	NO2_500	27	Good		
+50029	1/7/2022	Harrison Township	NO2	8	Good		
+79425	6/11/2024	North Braddock	PM10_640	12	Good		
+29782	8/13/2019	Liberty 2	PM10	19	Good		
+11498	6/11/2017	Lawrenceville	PM25B	51	Moderate	Unusually sensitive people should consider reducing prolonged or heavy exertion.	"Respiratory symptoms possible in unusually sensitive individuals, possible aggravation of heart or lung disease in people with cardiopulmonary disease and older adults."
+74380	11/10/2023	North Braddock	PM10_640	24	Good		
+51332	2/14/2022	South Fayette	SO2	0	Good		
+82652	10/14/2024	North Braddock	PM25_640	18	Good		
+25815	3/5/2019	Liberty 2	PM10	8	Good		
+401	1/20/2016	Lincoln	PM10	18	Good		
+46210	8/28/2021	Lawrenceville 2	SO2	4	Good		
+72587	8/27/2023	Clairton	PM25_640	37	Good		
+48786	12/1/2021	South Fayette	SO2	1	Good		
+56667	7/12/2022	Liberty 2	PM10	20	Good		
+54320	5/5/2022	Parkway East	CO	8	Good		
+8429	1/24/2017	Parkway East	NO2	19	Good		
+21527	8/29/2018	Parkway East	NO2	21	Good		
+69766	5/8/2023	Pittsburgh	NO2_500	7	Good		
+40372	11/18/2020	Liberty 2	PM10	13	Good		
+47409	10/22/2021	Parkway East	PM25T	22	Good		
+38565	8/26/2020	Liberty	SO2	19	Good		
+74443	11/13/2023	Harrison Township	OZONE	32	Good		
+13128	8/23/2017	South Fayette	OZONE	38	Good		
+39354	10/1/2020	North Braddock	SO2	4	Good		
+56306	7/1/2022	North Braddock	SO2	11	Good		
+15018	11/14/2017	Flag Plaza	PM10	19	Good		
+30512	9/11/2019	Lawrenceville 2	CO	9	Good		
+67290	3/7/2023	North Braddock	PM10_640	13	Good		
+66780	2/21/2023	Liberty 2	PM10	19	Good		
+50438	1/19/2022	Parkway East	CO	8	Good		
+47688	10/31/2021	Pittsburgh	PM10_640	11	Good		
+77496	3/19/2024	Clairton	PM25_640	16	Good		
+17845	3/19/2018	South Fayette	OZONE	46	Good		
+77493	3/19/2024	Pittsburgh	NO2_500	8	Good		
+66408	2/11/2023	Clairton	PM25_640	40	Good		
+34396	2/20/2020	Liberty 2	PM10	8	Good		
+45477	7/24/2021	North Braddock	PM10B	40	Good		
+10136	4/12/2017	Liberty 2	PM25(2)	20	Good		
+37753	7/20/2020	Lawrenceville	OZONE	44	Good		
+39748	10/19/2020	Flag Plaza	PM10	12	Good		
+67788	3/20/2023	Liberty 2	PM25T	62	Moderate	Unusually sensitive people should consider reducing prolonged or heavy exertion.	"Respiratory symptoms possible in unusually sensitive individuals, possible aggravation of heart or lung disease in people with cardiopulmonary disease and older adults."
+15922	12/24/2017	Lawrenceville	PM25B	34	Good		
+17075	2/13/2018	South Fayette	SO2	3	Good		
+18695	4/25/2018	Avalon	SO2	0	Good		
+12408	7/21/2017	Parkway East	NO2	17	Good		
+10935	5/17/2017	Parkway East	NO2	24	Good		
+45283	7/15/2021	Pittsburgh	PM25_640	52	Moderate	Unusually sensitive people should consider reducing prolonged or heavy exertion.	"Respiratory symptoms possible in unusually sensitive individuals, possible aggravation of heart or lung disease in people with cardiopulmonary disease and older adults."
+28868	7/7/2019	Flag Plaza	CO	3	Good		
+4898	8/15/2016	Lawrenceville	PM25B	39	Good		
+37591	7/13/2020	Avalon	PM25T	25	Good		
+68033	3/27/2023	Clairton	PM25_640	39	Good		
+5900	9/29/2016	Parkway East	NO2	11	Good		
+9532	3/15/2017	Liberty	SO2	1	Good		
+13961	9/29/2017	Lawrenceville	PM25B	24	Good		
+39694	10/17/2020	Harrison Township	NO2	12	Good		
+9827	3/29/2017	Parkway East	PM25T	23	Good		
+33105	12/25/2019	Parkway East	PM25T	81	Moderate	Unusually sensitive people should consider reducing prolonged or heavy exertion.	"Respiratory symptoms possible in unusually sensitive individuals, possible aggravation of heart or lung disease in people with cardiopulmonary disease and older adults."
+14033	10/2/2017	Avalon	SO2	1	Good		
+54531	5/11/2022	Liberty	SO2	37	Good		
+74704	11/25/2023	Avalon	PM25_640	20	Good		
+42054	2/9/2021	Parkway East	CO	7	Good		
+58613	8/29/2022	Harrison Township	OZONE	40	Good		
+5338	9/4/2016	Lawrenceville	OZONE	48	Good		
+49667	12/27/2021	Pittsburgh	PM10_640	18	Good		
+1535	3/14/2016	Lincoln	PM10	9	Good		
+76046	1/20/2024	North Braddock	PM10_640	10	Good		
+76399	2/3/2024	Lawrenceville 2	SO2	1	Good		
+14951	11/11/2017	Lawrenceville 2	CO	5	Good		
+16909	2/5/2018	Harrison Township	NO2	13	Good		
+23764	12/6/2018	Liberty 2	PM25T	35	Good		
+45153	7/9/2021	North Braddock	CO	4	Good		
+6142	10/10/2016	Lawrenceville 2	CO	3	Good		
+12869	8/11/2017	Lawrenceville	PM25B	58	Moderate	Unusually sensitive people should consider reducing prolonged or heavy exertion.	"Respiratory symptoms possible in unusually sensitive individuals, possible aggravation of heart or lung disease in people with cardiopulmonary disease and older adults."
+2235	4/15/2016	South Fayette	OZONE	80	Moderate	Unusually sensitive people should consider reducing prolonged or heavy outdoor exertion.	Unusually sensitive individuals may experience respiratory symptoms.
+10041	4/8/2017	Flag Plaza	PM10	9	Good		
+31808	11/2/2019	Liberty	SO2	23	Good		
+3601	6/16/2016	Lawrenceville 2	SO2	1	Good		
+15912	12/24/2017	Parkway East	PM25T	30	Good		
+35798	4/24/2020	North Braddock	PM10B	19	Good		
+12069	7/6/2017	Liberty	SO2	6	Good		
+3098	5/24/2016	Parkway East	CO	17	Good		
+27708	5/21/2019	South Fayette	SO2	0	Good		
+76678	2/12/2024	Parkway East	CO	9	Good		
+43950	5/12/2021	Pittsburgh	PM25_640	14	Good		
+8066	1/7/2017	Liberty	SO2	1	Good		
+3008	5/20/2016	Flag Plaza	PM10	19	Good		
+82544	10/9/2024	Liberty	SO2	23	Good		
+25639	2/26/2019	Lawrenceville 2	SO2	1	Good		
+68328	4/5/2023	Pittsburgh	PM25_640	46	Good		
+43309	4/11/2021	Liberty 2	PM25T	30	Good		
+15499	12/6/2017	Liberty 2	PM25T	17	Good		
+20392	7/10/2018	Glassport High Street	PM10	36	Good		
+26116	3/17/2019	Parkway East	CO	6	Good		
+78015	4/11/2024	Glassport High Street	PM10	8	Good		
+45619	7/31/2021	Lawrenceville 2	CO	2	Good		
+23153	11/9/2018	Lawrenceville	PM25B	40	Good		
+12284	7/16/2017	South Fayette	OZONE	50	Good		
+75651	1/4/2024	North Braddock	CO	2	Good		
+56929	7/20/2022	Liberty 2	PM10	31	Good		
+80558	7/25/2024	North Braddock	CO	3	Good		
+19923	6/19/2018	Lawrenceville	PM25B	56	Moderate	Unusually sensitive people should consider reducing prolonged or heavy exertion.	"Respiratory symptoms possible in unusually sensitive individuals, possible aggravation of heart or lung disease in people with cardiopulmonary disease and older adults."
+28544	6/24/2019	Lawrenceville 2	CO	4	Good		
+31237	10/10/2019	Clairton	SO2	4	Good		
+4818	8/11/2016	North Braddock	SO2	7	Good		
+48952	12/5/2021	South Fayette	SO2	4	Good		
+47303	10/15/2021	Avalon	PM25T	51	Moderate	Unusually sensitive people should consider reducing prolonged or heavy exertion.	"Respiratory symptoms possible in unusually sensitive individuals, possible aggravation of heart or lung disease in people with cardiopulmonary disease and older adults."
+73009	9/12/2023	Lawrenceville 2	CO	4	Good		
+40114	11/5/2020	South Fayette	SO2	3	Good		
+28538	6/24/2019	Flag Plaza	CO	5	Good		
+2733	5/8/2016	Lawrenceville 2	CO	3	Good		
+11987	7/2/2017	Avalon	SO2	0	Good		
+7546	12/13/2016	Parkway East	PM25T	67	Moderate	Unusually sensitive people should consider reducing prolonged or heavy exertion.	"Respiratory symptoms possible in unusually sensitive individuals, possible aggravation of heart or lung disease in people with cardiopulmonary disease and older adults."
+9453	3/12/2017	North Braddock	PM10B	15	Good		
+19086	5/12/2018	Lawrenceville 2	SO2	3	Good		
+74785	11/29/2023	North Braddock	PM10_640	19	Good		
+82683	10/16/2024	Lawrenceville 2	SO2	0	Good		
+75558	12/31/2023	Parkway East	CO	5	Good		
+34375	2/19/2020	Lincoln	PM25	20	Good		
+36116	5/8/2020	Avalon	SO2	1	Good		
+2675	5/5/2016	Glassport High Street	PM10	6	Good		
+74540	11/18/2023	North Braddock	CO	3	Good		
+55350	6/5/2022	Harrison Township	NO2	4	Good		
+73623	10/9/2023	Lawrenceville 2	SO2	1	Good		
+11170	5/28/2017	Lincoln	PM25	68	Moderate	Unusually sensitive people should consider reducing prolonged or heavy exertion.	"Respiratory symptoms possible in unusually sensitive individuals, possible aggravation of heart or lung disease in people with cardiopulmonary disease and older adults."
+21246	8/17/2018	Liberty	SO2	27	Good		
+20309	7/6/2018	Avalon	SO2	0	Good		
+25632	2/25/2019	Harrison Township	NO2	4	Good		
+12836	8/10/2017	Glassport High Street	PM10	41	Good		
+74210	11/3/2023	Lawrenceville	OZONE	40	Good		
+18128	3/31/2018	Flag Plaza	CO	0	Good		
+60899	10/14/2022	North Braddock	SO2	17	Good		
+78560	5/6/2024	Liberty 2	PM10_640	16	Good		
+37897	7/27/2020	Lawrenceville	OZONE	38	Good		
+11258	5/31/2017	South Fayette	SO2	1	Good		
+7360	12/4/2016	Flag Plaza	CO	0	Good		
+13536	9/10/2017	Parkway East	PM25T	24	Good		
+17324	2/24/2018	Flag Plaza	PM10	8	Good		
+31518	10/22/2019	Lincoln	PM25	30	Good		
+33202	12/30/2019	Parkway East	CO	5	Good		
+38295	8/14/2020	Lawrenceville 2	CO	3	Good		
+43304	4/11/2021	Liberty	SO2	10	Good		
+58693	8/31/2022	Liberty 2	PM25T	33	Good		
+36230	5/13/2020	Parkway East	CO	7	Good		
+39885	10/25/2020	North Braddock	SO2	1	Good		
+52376	3/17/2022	Pittsburgh	PM10_640	29	Good		
+46333	9/3/2021	Lawrenceville 2	CO	3	Good		
+48320	11/17/2021	Parkway East	CO	8	Good		
+41301	1/3/2021	Lawrenceville 2	SO2	5	Good		
+81233	8/20/2024	Avalon	PM25_640	26	Good		
+58180	8/18/2022	Lawrenceville 2	CO	2	Good		
+80514	7/23/2024	Lawrenceville 2	SO2	4	Good		
+22840	10/27/2018	Liberty 2	PM25T	28	Good		
+60886	10/14/2022	North Braddock	CO	19	Good		
+51469	2/18/2022	Parkway East	PM25T	23	Good		
+1850	3/28/2016	Harrison Township	OZONE	34	Good		
+29484	8/1/2019	South Fayette	SO2	3	Good		
+57963	8/12/2022	Lawrenceville 2	SO2	1	Good		
+24567	1/11/2019	Harrison Township	NO2	28	Good		
+41119	12/26/2020	Harrison Township	NO2	12	Good		
+58002	8/13/2022	Clairton	PM25_640	27	Good		
+67459	3/12/2023	Clairton	PM25_640	30	Good		
+9796	3/27/2017	Liberty 2	PM25(2)	24	Good		
+6633	11/1/2016	Parkway East	NO2	17	Good		
+18716	4/26/2018	Liberty 2	PM25T	23	Good		
+27781	5/24/2019	South Fayette	SO2	3	Good		
+45187	7/10/2021	Lawrenceville	OZONE	47	Good		
+20024	6/23/2018	Parkway East	PM25T	25	Good		
+60164	10/3/2022	North Braddock	CO	2	Good		
+23072	11/6/2018	Avalon	PM25T	13	Good		
+36864	6/11/2020	Liberty	SO2	16	Good		
+35433	4/7/2020	South Fayette	SO2	1	Good		
+35948	4/30/2020	Flag Plaza	PM10	14	Good		
+26345	3/27/2019	North Braddock	SO2	13	Good		
+48745	11/30/2021	Lawrenceville 2	CO	5	Good		
+49910	1/3/2022	Harrison Township	NO2	5	Good		
+16473	1/17/2018	Avalon	SO2	1	Good		
+71417	7/8/2023	Lawrenceville 2	CO	3	Good		
+5044	8/22/2016	Flag Plaza	CO	0	Good		
+70000	5/15/2023	Harrison Township	NO2	24	Good		
+604	1/30/2016	Lawrenceville	OZONE	29	Good		
+63659	11/27/2022	Lawrenceville 2	SO2	2	Good		
+24174	12/24/2018	Liberty 2	PM25T	38	Good		
+7098	11/22/2016	Lincoln	PM25	54	Moderate	Unusually sensitive people should consider reducing prolonged or heavy exertion.	"Respiratory symptoms possible in unusually sensitive individuals, possible aggravation of heart or lung disease in people with cardiopulmonary disease and older adults."
+77024	2/27/2024	Avalon	PM25_640	52	Moderate	Unusually sensitive people should consider reducing prolonged or heavy exertion.	"Respiratory symptoms possible in unusually sensitive individuals, possible aggravation of heart or lung disease in people with cardiopulmonary disease and older adults."
+9452	3/12/2017	Avalon	SO2	1	Good		
+30733	9/20/2019	Parkway East	CO	7	Good		
+34928	3/15/2020	Lincoln	PM25	34	Good		
+37913	7/28/2020	Parkway East	CO	8	Good		
+26498	4/2/2019	Parkway East	NO2	24	Good		
+80451	7/21/2024	Pittsburgh	PM10_640	14	Good		
+5399	9/7/2016	Harrison Township	OZONE	44	Good		
+8946	2/18/2017	Parkway East	NO2	36	Good		
+65060	1/1/2023	North Braddock	PM10_640	17	Good		
+46098	8/23/2021	Flag Plaza	PM10	22	Good		
+27066	4/25/2019	Lawrenceville	OZONE	25	Good		
+10956	5/18/2017	Parkway East	NO2	26	Good		
+41368	1/6/2021	South Fayette	SO2	1	Good		
+37554	7/11/2020	South Fayette	SO2	3	Good		
+58586	8/28/2022	Lawrenceville 2	CO	4	Good		
+68311	4/5/2023	North Braddock	CO	30	Good		
+44363	6/1/2021	Parkway East	PM25T	58	Moderate	Unusually sensitive people should consider reducing prolonged or heavy exertion.	"Respiratory symptoms possible in unusually sensitive individuals, possible aggravation of heart or lung disease in people with cardiopulmonary disease and older adults."
+25327	2/12/2019	North Braddock	SO2	3	Good		
+13643	9/15/2017	Lawrenceville	PM25B	54	Moderate	Unusually sensitive people should consider reducing prolonged or heavy exertion.	"Respiratory symptoms possible in unusually sensitive individuals, possible aggravation of heart or lung disease in people with cardiopulmonary disease and older adults."
+77379	3/13/2024	North Braddock	PM25_640	55	Moderate	Unusually sensitive people should consider reducing prolonged or heavy exertion.	"Respiratory symptoms possible in unusually sensitive individuals, possible aggravation of heart or lung disease in people with cardiopulmonary disease and older adults."
+79625	6/20/2024	Glassport High Street	PM10	31	Good		
+35515	4/11/2020	Liberty 2	PM25T	33	Good		
+57196	7/27/2022	Pittsburgh	PM10_640	17	Good		
+37238	6/27/2020	Lawrenceville	OZONE	31	Good		
+65619	1/18/2023	Parkway East	NO2	12	Good		
+7339	12/3/2016	Liberty	SO2	1	Good		
+38519	8/24/2020	Avalon	SO2	1	Good		
+20981	8/5/2018	Lawrenceville	PM25B	68	Moderate	Unusually sensitive people should consider reducing prolonged or heavy exertion.	"Respiratory symptoms possible in unusually sensitive individuals, possible aggravation of heart or lung disease in people with cardiopulmonary disease and older adults."
+51264	2/12/2022	Liberty	SO2	6	Good		
+82245	9/29/2024	Lawrenceville	OZONE	17	Good		
+68152	3/31/2023	Liberty	SO2	49	Good		
+14100	10/5/2017	Lawrenceville 2	SO2	3	Good		
+46027	8/20/2021	Liberty	SO2	10	Good		
+13278	8/29/2017	Flag Plaza	PM10	19	Good		
+5764	9/23/2016	Avalon	SO2	9	Good		
+59141	9/14/2022	Parkway East	NO2	16	Good		
+27461	5/11/2019	Harrison Township	OZONE	40	Good		
+11428	6/8/2017	Liberty 2	PM10	6	Good		
+74860	12/1/2023	Pittsburgh	PM10_640	16	Good		
+37599	7/13/2020	Harrison Township	OZONE	35	Good		
+78515	5/3/2024	Parkway East	PM25_640	38	Good		
+16729	1/29/2018	Harrison Township	OZONE	25	Good		
+61909	10/27/2022	North Braddock	PM25_640	18	Good		
+69044	4/21/2023	North Braddock	CO	14	Good		
+28727	7/2/2019	Harrison Township	OZONE	50	Good		
+20436	7/11/2018	North Braddock	PM10B	19	Good		
+13513	9/9/2017	North Braddock	PM10B	12	Good		
+48811	12/2/2021	Harrison Township	NO2	8	Good		
+74028	10/27/2023	Lawrenceville 2	CO	6	Good		
+37557	7/11/2020	Parkway East	NO2	19	Good		
+80460	7/20/2024	North Braddock	SO2	3	Good		
+24701	1/17/2019	Lawrenceville 2	CO	4	Good		
+80100	7/8/2024	Avalon	PM25_640	53	Moderate	Unusually sensitive people should consider reducing prolonged or heavy exertion.	"Respiratory symptoms possible in unusually sensitive individuals, possible aggravation of heart or lung disease in people with cardiopulmonary disease and older adults."
+77407	3/15/2024	North Braddock	CO	10	Good		
+75950	1/15/2024	Harrison Township	OZONE	21	Good		
+37760	7/21/2020	Liberty 2	PM10	17	Good		
+22993	11/2/2018	Liberty 2	PM10	17	Good		
+39800	10/21/2020	Lawrenceville 2	SO2	1	Good		
+3994	7/4/2016	Liberty 2	PM10	15	Good		
+19462	5/30/2018	North Braddock	PM10B	29	Good		
+35870	4/27/2020	Parkway East	NO2	11	Good		
+77223	3/6/2024	Glassport High Street	PM10	8	Good		
+45249	7/13/2021	Parkway East	CO	6	Good		
+77229	3/6/2024	North Braddock	SO2	0	Good		
+36272	5/15/2020	South Fayette	OZONE	46	Good		
+30753	9/21/2019	Clairton	SO2	3	Good		
+34582	2/28/2020	Avalon	SO2	1	Good		
+2571	4/30/2016	Lincoln	PM25	30	Good		
+75069	12/9/2023	North Braddock	PM10_640	32	Good		
+3829	6/27/2016	Lawrenceville 2	CO	2	Good		
+37231	6/27/2020	North Braddock	SO2	4	Good		
+20264	7/4/2018	Liberty 2	PM10	22	Good		
+37065	6/19/2020	Lawrenceville	OZONE	36	Good		
+83069	11/2/2024	North Braddock	PM10_640	21	Good		
+74248	11/4/2023	Parkway East	PM25_640	54	Moderate	Unusually sensitive people should consider reducing prolonged or heavy exertion.	"Respiratory symptoms possible in unusually sensitive individuals, possible aggravation of heart or lung disease in people with cardiopulmonary disease and older adults."
+625	1/31/2016	Avalon	SO2	1	Good		
+19423	5/28/2018	Liberty 2	PM10	32	Good		
+1866	3/29/2016	Harrison Township	OZONE	45	Good		
+81702	9/5/2024	Avalon	PM25_640	27	Good		
+22052	9/22/2018	Harrison Township	NO2	5	Good		
+26574	4/5/2019	Avalon	PM25T	38	Good		
+24487	1/7/2019	Liberty	SO2	24	Good		
+48809	12/2/2021	South Fayette	OZONE	31	Good		
+31628	10/26/2019	Glassport High Street	PM10	31	Good		
+41876	1/31/2021	Harrison Township	OZONE	29	Good		
+78602	5/8/2024	Parkway East	CO	6	Good		
+41732	1/24/2021	Liberty 2	PM10	13	Good		
+37711	7/18/2020	Parkway East	PM25T	59	Moderate	Unusually sensitive people should consider reducing prolonged or heavy exertion.	"Respiratory symptoms possible in unusually sensitive individuals, possible aggravation of heart or lung disease in people with cardiopulmonary disease and older adults."
+23451	11/22/2018	Lawrenceville 2	SO2	3	Good		
+13020	8/18/2017	Lincoln	PM25	45	Good		
+26193	3/21/2019	Flag Plaza	CO	0	Good		
+55119	5/29/2022	Lawrenceville 2	CO	4	Good		
+46241	8/30/2021	Pittsburgh	PM25_640	42	Good		
+68028	3/27/2023	Glassport High Street	PM10	9	Good		
+27001	4/22/2019	Glassport High Street	PM10	19	Good		
+76230	1/27/2024	Lawrenceville 2	SO2	0	Good		
+55256	6/2/2022	Pittsburgh	PM10_640	27	Good		
+43073	3/30/2021	Parkway East	PM25T	30	Good		
+77231	3/6/2024	Clairton	PM25_640	21	Good		
+70914	6/16/2023	Liberty 2	PM10	26	Good		
+20709	7/23/2018	North Braddock	SO2	1	Good		
+25507	2/20/2019	Liberty	SO2	9	Good		
+6219	10/13/2016	Parkway East	NO2	24	Good		
+46553	9/14/2021	Lawrenceville 2	SO2	2	Good		
+40751	12/7/2020	Parkway East	CO	7	Good		
+27433	5/10/2019	Harrison Township	OZONE	32	Good		
+72949	9/9/2023	Parkway East	PM25_640	25	Good		
+35832	4/25/2020	Lawrenceville	PM25B	42	Good		
+74524	11/17/2023	Parkway East	CO	7	Good		
+71683	7/19/2023	Pittsburgh	PM25_640	66	Moderate	Unusually sensitive people should consider reducing prolonged or heavy exertion.	"Respiratory symptoms possible in unusually sensitive individuals, possible aggravation of heart or lung disease in people with cardiopulmonary disease and older adults."
+9109	2/25/2017	Lawrenceville	OZONE	35	Good		
+33754	1/23/2020	Parkway East	PM25T	65	Moderate	Unusually sensitive people should consider reducing prolonged or heavy exertion.	"Respiratory symptoms possible in unusually sensitive individuals, possible aggravation of heart or lung disease in people with cardiopulmonary disease and older adults."
+70384	5/26/2023	Pittsburgh	PM25_640	20	Good		
+58975	9/9/2022	Glassport High Street	PM10	9	Good		
+57828	8/8/2022	Pittsburgh	NO2_500	9	Good		
+56581	7/9/2022	Parkway East	PM25T	45	Good		

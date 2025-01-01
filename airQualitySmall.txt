@@ -1,0 +1,26 @@
+_id	date	site	parameter	index_value	description	health_advisory	health_effects
+1	1/1/2016	Lawrenceville	PM25B	25	Good		
+2	1/1/2016	Flag Plaza	CO	0	Good		
+30	1/2/2016	Lawrenceville	OZONE	21	Good		
+35	1/2/2016	Flag Plaza	CO	0	Good		
+36	1/2/2016	Harrison Township	OZONE	22	Good		
+37	1/2/2016	Flag Plaza	PM10	7	Good		
+49	1/3/2016	Lincoln	PM10	20	Good		
+68	1/4/2016	Harrison Township	OZONE	31	Good		
+69	1/4/2016	Flag Plaza	PM10	12	Good		
+86	1/5/2016	Harrison Township	OZONE	18	Good		
+87	1/5/2016	Lawrenceville	PM25B	54	Moderate	Unusually sensitive people should consider reducing prolonged or heavy exertion.	"Respiratory symptoms possible in unusually sensitive individuals, possible aggravation of heart or lung disease in people with cardiopulmonary disease and older adults."
+95	1/5/2016	Liberty 2	PM25(2)	44	Good		
+108	1/6/2016	Lincoln	PM25	139	Unhealthy for Sensitive Groups	"People with heart or lung disease, older adults, and children should reduce prolonged or heavy exertion."	"Increasing likelihood of respiratory symptoms in sensitive individuals, aggravation of heart or lung disease and premature mortality in people with cardiopulmonary disease and older adults."
+109	1/6/2016	Liberty 2	PM25(2)	118	Unhealthy for Sensitive Groups	"People with heart or lung disease, older adults, and children should reduce prolonged or heavy exertion."	"Increasing likelihood of respiratory symptoms in sensitive individuals, aggravation of heart or lung disease and premature mortality in people with cardiopulmonary disease and older adults."
+110	1/6/2016	Parkway East	NO2	29	Good		
+111	1/6/2016	Lincoln	PM10	70	Moderate	Unusually sensitive people should consider reducing prolonged or heavy exertion.	"Respiratory symptoms possible in unusually sensitive individuals, possible aggravation of heart or lung disease in people with cardiopulmonary disease and older adults."
+131	1/7/2016	Flag Plaza	PM10	50	Good		
+132	1/7/2016	Liberty 2	PM25(2)	77	Moderate	Unusually sensitive people should consider reducing prolonged or heavy exertion.	"Respiratory symptoms possible in unusually sensitive individuals, possible aggravation of heart or lung disease in people with cardiopulmonary disease and older adults."
+133	1/7/2016	Lincoln	PM25	118	Unhealthy for Sensitive Groups	"People with heart or lung disease, older adults, and children should reduce prolonged or heavy exertion."	"Increasing likelihood of respiratory symptoms in sensitive individuals, aggravation of heart or lung disease and premature mortality in people with cardiopulmonary disease and older adults."
+134	1/7/2016	Parkway East	PM25T	67	Moderate	Unusually sensitive people should consider reducing prolonged or heavy exertion.	"Respiratory symptoms possible in unusually sensitive individuals, possible aggravation of heart or lung disease in people with cardiopulmonary disease and older adults."
+135	1/7/2016	Liberty 2	PM10	49	Good		
+149	1/8/2016	Parkway East	NO2	33	Good		
+150	1/8/2016	North Braddock	SO2	11	Good		
+151	1/8/2016	Flag Plaza	CO	0	Good		
+154	1/8/2016	Flag Plaza	PM10	50	Good		

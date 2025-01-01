@@ -1,0 +1,21 @@
+_id	date	site	parameter	index_value	description	health_advisory	health_effects
+1	1/1/1990	Site A	PAR1	1	Good	X	X
+2	1/1/1990	Site A	PAR1	1	Good	X	X
+3	1/1/1990	Site A	PAR2	1	Very Unhealthy	X	X
+4	1/1/1990	Site A	PAR2	1	Unhealthy	X	X
+5	1/1/1991	Site B	PAR1	1	Good	X	X
+6	1/1/1991	Site B	PAR1	1	Moderate	X	X
+7	1/1/1991	Site B	PAR1	1	Moderate	X	X
+8	1/1/1991	Site B	PAR2	1	Good	X	X
+9	1/1/1992	Site A	PAR1	1	Unhealthy	X	X
+10	1/1/1992	Site B	PAR1	1	Moderate	X	X
+11	1/1/1992	Site A	PAR1	1	Good	X	X
+12	1/1/1992	Site B	PAR1	1	Good	X	X
+13	1/1/1992	Site A	PAR1	1	Moderate	X	X
+14	1/1/1992	Site B	PAR1	1	Unhealthy for Sensitive Groups	X	X
+15	1/1/1988	Site A	PAR2	1	Good	X	X
+16	1/1/1988	Site B	PAR2	1	Good	X	X
+17	1/1/1988	Site A	PAR2	1	Good	X	X
+18	1/1/1988	Site B	PAR2	1	Moderate	X	X
+19	1/1/1988	Site A	PAR1	1	Moderate	X	X
+20	1/1/1988	Site C	PAR1	1	Moderate	X	X
