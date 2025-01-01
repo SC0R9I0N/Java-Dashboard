@@ -8,3 +8,8 @@ It is planned to be an extension of an in-class project that further customizes 
 Some fixes planned:
 - Year text field filter does not currently work in conjunction with the site, only the quality
 - try-catch block in the year text field should not be there as it is not explicit error checking
+
+Potential additions:
+- add a "type" button to change the type of graph shown (potentially a pie chart)
+- additional functionality to take advantage of the other features in the dataset
+- color code based on a parameter (potentially add a button to change how it color codes)
